@@ -1,0 +1,23 @@
+import os, sys
+
+print ("")
+print ("██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗  ██╗██╗     ██╗  ██╗")
+print ("██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║  ██║██║     ╚██╗██╔╝")
+print ("███████║███████║██║     █████╔╝ ███████║██║      ╚███╔╝ ")
+print ("██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██║      ██╔██╗ ")
+print ("██║  ██║██║  ██║╚██████╗██║  ██╗     ██║███████╗██╔╝ ██╗")
+print ("╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝")
+print ("")
+
+print('Pakages Installing Started')
+os.system('pip install argparse')
+os.system('pip install tabulate')
+os.system('pip install httpx')
+os.system('pip install tqdm==4.60.0')
+os.system('pip install unicodecsv')
+os.system('pip install requests')
+os.system('pip install colorama')
+os.system('pip install check-manifest==0.46')
+os.system('pip install pytest==6.2.3')
+os.system("cls" if os.name=='nt' else 'clear')
+print ('All Pakages Installed Successfully')
