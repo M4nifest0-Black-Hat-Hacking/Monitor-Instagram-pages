@@ -74,7 +74,7 @@
 # See how it works v1.0.0
 ----------------------
 - 🔞 V1.0..0  
--  https://m4nifest0.group/product/Extract-information-from-Instagram/
+-  https://m4nifest0.group/product/get-phone-number-and-email-instagram/
 # How to ger:
 ----------------------
 - 📌 Visit our channel or our site to download .
